@@ -2,7 +2,7 @@
 
 I'm an aspiring back-end developer
 
-I like making things work
+I like making things work and tools that help people
 
 ## Stack
 
