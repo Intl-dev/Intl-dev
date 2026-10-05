@@ -1,7 +1,7 @@
 ## Hello
 
 I'm an aspiring back-end developer
-
+Self taught
 I like making things work and tools that help people
 
 ## Stack
