@@ -6,6 +6,8 @@ Self taught
 
 I like making things work and tools that help people
 
+- Languages: English and Spanish
+
 ## Stack
 
 - Python
@@ -17,4 +19,4 @@ I like making things work and tools that help people
 
 - I like cats
 - I'm broke
-- Languages: English, Spanish
+
