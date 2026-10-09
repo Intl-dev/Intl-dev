@@ -1,6 +1,6 @@
 ## Hello
 
-You can call me Intl
+You can call me Intl or Int1
 
 I'm an aspiring back-end developer
 
